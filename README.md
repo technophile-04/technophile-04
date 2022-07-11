@@ -5,14 +5,14 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=4981F4&width=350&lines=Full-stack+web+Developer;Blockchain+and+Web%2C+WAGMI+!;Always+learning+new+things"></a>
+<img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=4981F4&width=350&lines=Full-stack+web+Developer;Blockchain+and+Web%2C+WAGMI+!;Always+learning+new+things">
 </p>
 
 <!-- Social badges section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/shiv-bhonde-b23a1a205/">
     <img alt="linkedIn" title="Lets connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=your-github-username&color=4981F4&style=for-the-badge"/>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=technophile-04&color=4981F4&style=for-the-badge"/>
 </p>
 
 ## 📌 Pinned
