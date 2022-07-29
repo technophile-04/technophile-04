@@ -44,7 +44,7 @@
 
 <p align="center">
     <p align="center">
-    <img title="My streak" alt="technophile-04's streak" src="https://github-readme-streak-stats.herokuapp.com?user=technophile-04&theme=dark&ring=4981F4&currStreakLabel=4981F4&fire=4981F4&border=4981F4"/>
+    <img title="My streak" alt="technophile-04's streak" src="https://github-readme-streak-stats.herokuapp.com?user=technophile-04&theme=dark&ring=4981F4&currStreakLabel=4981F4&fire=4981F4&border=4981F4&hide_border=true"/>
     <img alt="technophile-04's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technophile-04&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4981F4&icon_color=F8D866&hide=Jupyter%20Notebook&border_color=4981F4"/>
     </p>
 </p>
@@ -98,4 +98,4 @@
 </p>
 
 
-[![technophile-04's github activity graph](https://activity-graph.herokuapp.com/graph?username=technophile-04&bg_color=151515&color=4981f4&line=4981f4&point=ffffff&area=true)](https://activity-graph.herokuapp.com/graph?username=technophile-04)
+[![technophile-04's github activity graph](https://activity-graph.herokuapp.com/graph?username=technophile-04&bg_color=151515&color=4981f4&line=4981f4&point=ffffff&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=technophile-04)
