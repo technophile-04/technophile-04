@@ -17,6 +17,19 @@
 
 ## 📌 Pinned
 
+
+<p align='center'>
+<p align="center">
+<a href="https://github.com/technophile-04/ethMan">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=ethMan&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/technophile-04/De-Tweet">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=De-Tweet&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
+</a>
+</p>
+</p>
+
 <p align="center">
 <a href="https://github.com/technophile-04/blog-frontend">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=blog-frontend&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
@@ -26,19 +39,7 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=blog-backend&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
 </a>
 </p>
-<p align='center'>
 
-<p align="center">
-<a href="https://github.com/technophile-04/Flash">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=Flash&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/technophile-04/De-Tweet">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=De-Tweet&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
-</a>
-</p>
-
-</p>
 
 ## 🔥 Github stats
 
