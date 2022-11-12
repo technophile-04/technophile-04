@@ -98,5 +98,7 @@
 
 </p>
 
+## 🥇 Badge Board
+[![@technophile04's Holopin board](https://holopin.me/technophile04)](https://holopin.io/@technophile04)
 
 [![technophile-04's github activity graph](https://activity-graph.herokuapp.com/graph?username=technophile-04&bg_color=151515&color=4981f4&line=4981f4&point=ffffff&area=true)](https://activity-graph.herokuapp.com/graph?username=technophile-04)
