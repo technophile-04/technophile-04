@@ -24,8 +24,8 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=ethMan&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/technophile-04/De-Tweet">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=De-Tweet&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
+<a href="https://github.com/technophile-04/lwdXbuildSpace">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=lwdXbuildSpace&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
 </a>
 </p>
 </p>
@@ -35,8 +35,8 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=blog-frontend&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/technophile-04/blog-backend">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=blog-backend&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
+<a href="https://github.com/technophile-04/De-Tweet">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=De-Tweet&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
 </a>
 </p>
 
