@@ -5,13 +5,29 @@
 
 <!-- Typing SVG -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=4981F4&width=350&lines=Full-stack+web+Developer;Blockchain+and+Web%2C+WAGMI+!;Always+learning+new+things">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1507&color=A177FE&center=true&width=480&lines=%3C+Living+the+life+I+imagined+%3E;%3C+Full-stack+web+developer+%3E;%3C+Blockchain+and+Web3.0%2C+WAGMI+!+%3E;%3C+Always+learning+new+stuff+%3E">
 </p>
 
 <!-- Social badges section -->
-<p align="center">
+<p align='center'>
   <a href="https://www.linkedin.com/in/shiv-bhonde-b23a1a205/">
-    <img alt="linkedIn" title="Lets connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="Shiv | LinkedIn">
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/ShivBhonde">
+    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" alt="Shiv | Twitter">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:shivbhonde04@gmail.com">
+    <img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" alt="Shiv | Mail">
+  </a>&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/435412297825910795">
+    <img height="33" src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true" alt="Shiv | Discord" >
+  </a>&nbsp;&nbsp;
+</p>
+
+
+
+<!-- Profile to views -->
+<p align="center">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=technophile-04&color=4981F4&style=for-the-badge"/>
 </p>
 
@@ -21,34 +37,40 @@
 <p align='center'>
 <p align="center">
 <a href="https://github.com/technophile-04/ethMan">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=ethMan&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=ethMan&theme=aura" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/technophile-04/lwdXbuildSpace">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=lwdXbuildSpace&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=lwdXbuildSpace&theme=aura" />
 </a>
 </p>
 </p>
 
 <p align="center">
 <a href="https://github.com/technophile-04/blog-frontend">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=blog-frontend&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=blog-frontend&theme=aura" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/technophile-04/De-Tweet">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=De-Tweet&border_color=4981F4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=4981F4" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=De-Tweet&theme=aura" />
 </a>
 </p>
 
 
 ## 🔥 Github stats
-
 <p align="center">
-    <p align="center">
-    <img title="My streak" alt="technophile-04's streak" src="https://github-readme-streak-stats.herokuapp.com?user=technophile-04&theme=dark&ring=4981F4&currStreakLabel=4981F4&fire=4981F4&border=4981F4"/>
-    <img alt="technophile-04's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technophile-04&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4981F4&icon_color=F8D866&hide=Jupyter%20Notebook&border_color=4981F4"/>
-    </p>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=technophile-04&show_icons=true&theme=aura" />
+  &nbsp;
+  <img width="40%" src="https://streak-stats.demolab.com?user=technophile-04&background=15141B&ring=A177FE&currStreakNum=61FECA&fire=61FECA&sideLabels=A177FE&currStreakLabel=A177FE&dates=61FECA&sideNums=A177FE" />
 </p>
+
+<details align="center">
+    <summary> <code>Click for More Stats</code> </summary>
+    <br>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technophile-04&layout=compact&theme=aura" />
+    &nbsp;
+    <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=technophile-04&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
+</details>
 
 ## 🛠️ My favorite tools
 
@@ -100,5 +122,3 @@
 
 ## 🥇 Badge Board
 [![@technophile04's Holopin board](https://holopin.me/technophile04)](https://holopin.io/@technophile04)
-
-[![technophile-04's github activity graph](https://activity-graph.herokuapp.com/graph?username=technophile-04&bg_color=151515&color=4981f4&line=4981f4&point=ffffff&area=true)](https://activity-graph.herokuapp.com/graph?username=technophile-04)
