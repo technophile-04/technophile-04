@@ -28,7 +28,7 @@
 
 <!-- Profile to views -->
 <p align="center">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=technophile-04&color=4981F4&style=for-the-badge"/>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=technophile-04&color=a177fe&style=for-the-badge"/>
 </p>
 
 ## 📌 Pinned
