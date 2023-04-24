@@ -31,32 +31,6 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=technophile-04&color=a177fe&style=for-the-badge"/>
 </p>
 
-## 📌 Pinned
-
-
-<p align='center'>
-<p align="center">
-<a href="https://github.com/technophile-04/ethMan">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=ethMan&theme=aura" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/technophile-04/lwdXbuildSpace">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=lwdXbuildSpace&theme=aura" />
-</a>
-</p>
-</p>
-
-<p align="center">
-<a href="https://github.com/technophile-04/blog-frontend">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=blog-frontend&theme=aura" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/technophile-04/De-Tweet">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=technophile-04&repo=De-Tweet&theme=aura" />
-</a>
-</p>
-
-
 ## 🔥 Github stats
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=technophile-04&show_icons=true&theme=aura" />
