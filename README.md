@@ -1,6 +1,8 @@
-<h3 align="center">
-  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">
+  Let's Buidl ! <img src="https://media3.giphy.com/media/fdS9JesNsonnsntX2k/200.webp" width="150">
+</h1>
+
+
 
 <!-- Typing SVG -->
 <!-- <p align="center"> 
