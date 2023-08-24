@@ -1,12 +1,11 @@
 <h3 align="center">
-  Hello World 🌏, I am Shiv Bhonde
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG -->
-<p align="center">
+<!-- <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1507&color=A177FE&center=true&width=480&lines=%3C+Living+the+life+I+imagined+%3E;%3C+Full-stack+web+developer+%3E;%3C+Blockchain+and+Web3.0%2C+WAGMI+!+%3E;%3C+Always+learning+new+stuff+%3E">
-</p>
+</p> -->
 
 <!-- Social badges section -->
 <p align='center'>
@@ -16,7 +15,7 @@
   <a href="https://twitter.com/ShivBhonde">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" alt="Shiv | Twitter">
   </a>&nbsp;&nbsp;
-  <a href="mailto:shivbhonde04@gmail.com">
+   <a href="mailto:shivbhonde04@gmail.com">
     <img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" alt="Shiv | Mail">
   </a>&nbsp;&nbsp;
   <a href="https://discordapp.com/users/435412297825910795">
@@ -31,20 +30,20 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=technophile-04&color=a177fe&style=for-the-badge"/>
 </p>
 
-## 🔥 Github stats
+## 📊 Github stats
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=technophile-04&show_icons=true&theme=aura" />
   &nbsp;
   <img width="40%" src="https://streak-stats.demolab.com?user=technophile-04&background=15141B&ring=A177FE&currStreakNum=61FECA&fire=61FECA&sideLabels=A177FE&currStreakLabel=A177FE&dates=61FECA&sideNums=A177FE" />
 </p>
 
-<details align="center">
+<!-- <details align="center">
     <summary> <code>Click for More Stats</code> </summary>
     <br>
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technophile-04&layout=compact&theme=aura" />
     &nbsp;
     <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=technophile-04&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
-</details>
+</details> --> 
 
 ## 🛠️ My favorite tools
 
@@ -94,5 +93,5 @@
 
 </p>
 
-## 🥇 Badge Board
-[![@technophile04's Holopin board](https://holopin.me/technophile04)](https://holopin.io/@technophile04)
+<!-- ## 🥇 Badge Board
+[![@technophile04's Holopin board](https://holopin.me/technophile04)](https://holopin.io/@technophile04) --> 
